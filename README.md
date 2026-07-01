@@ -1,5 +1,10 @@
-## Hi there 👋
+hello, friend.
 
+my name's yousuf but you can call me joseph if you'd like.
+im interested in cybersecurity and it in general.
+ill be here mostly as a way of documenting my growth over the years.
+i'll mostly be documenting my walkthroughs and projects for future reference.
+if you ever want to reach me you can contact me via instagram or linkedin.
 <!--
 **Josephuuuu/Josephuuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
