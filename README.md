@@ -3,7 +3,7 @@ hello, friend.
 my name's yousuf.
 im interested in cybersecurity and it in general.
 ill be here mostly as a way of documenting my growth over the years.
-i'll mostly be documenting my walkthroughs and projects for future reference.
+i'll mostly be documenting the rooms ive done and projects for future reference.
 <!--
 **Josephuuuu/Josephuuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
