@@ -5,7 +5,7 @@ im interested in cybersecurity and it in general.
 ill be here mostly as a way of documenting my growth over the years.
 i'll mostly be documenting the rooms ive done and projects for future reference.
 
-[TRYHACKME](https://tryhackme.com/p/Josephuu) | [LINKEDIN](https://www.linkedin.com/in/yousuf-elsayed/)
+[TRYHACKME](https://tryhackme.com/p/Josephuu) | [LINKEDIN](https://www.linkedin.com/in/yousuf-elsayed/) | [HACKTHEBOX](https://profile.hackthebox.com/profile/019e5fc4-eb5f-7384-a740-8d100d11e3c9)
 <!--
 **Josephuuuu/Josephuuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
