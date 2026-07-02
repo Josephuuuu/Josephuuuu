@@ -4,6 +4,8 @@ my name's yousuf.
 im interested in cybersecurity and it in general.
 ill be here mostly as a way of documenting my growth over the years.
 i'll mostly be documenting the rooms ive done and projects for future reference.
+
+[TRYHACKME](https://tryhackme.com/p/Josephuu) | [LINKEDIN](https://www.linkedin.com/in/yousuf-elsayed/)
 <!--
 **Josephuuuu/Josephuuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
